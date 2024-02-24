@@ -1,6 +1,6 @@
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
-import Kyc from "@/components/kyc";
+import Kyc from "@/components/Kyc";
 
 const page = () => {
   return (
